@@ -91,6 +91,7 @@ print(data[['CustomerID',
 print("Number of Customers in Each Cluster:")
 print(data['Cluster'].value_counts().sort_index())
 
+```
 
 ## Output:
 <img width="685" height="203" alt="image" src="https://github.com/user-attachments/assets/d3eac0fc-f905-48a6-93b4-1a00187e5d4c" />
