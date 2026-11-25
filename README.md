@@ -1,4 +1,4 @@
-<img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/5d029be6-eab2-4dc1-829b-05210e64abf2" /># Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
@@ -98,6 +98,7 @@ print(data['Cluster'].value_counts().sort_index())
 <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/9d01c76b-3ea1-4367-acd1-36bc3066b0ff" />
 <img width="675" height="305" alt="image" src="https://github.com/user-attachments/assets/3ea8092b-2a78-48d8-ad4d-84e150c47a2e" />
 <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/b22a7386-06d7-47f7-80e8-81475ac18c81" />
+<img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/5d029be6-eab2-4dc1-829b-05210e64abf2" />
 
 
 
